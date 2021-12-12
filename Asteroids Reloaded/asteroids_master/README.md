@@ -8,7 +8,6 @@
     - [Requirements](#requirements)
     - [First time Set-up](#first-time-set-up)
 - [The Implmentation](#the-implementation)
-- [Ackowledgement](#ackowledgement)
 
 ## Game Manual 
 Find the Asteroids Reloaded game manual [here](https://uniofnottm-my.sharepoint.com/:b:/g/personal/psygt2_nottingham_ac_uk/EVWUKN4WnNlLv-CJW4-SHyoB-I2KUc3xr7GJ9JslCRkhSQ?e=Rdrx3g)
