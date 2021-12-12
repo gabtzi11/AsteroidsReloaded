@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./asteroid_test.o
+./ship_test.o

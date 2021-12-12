@@ -1,0 +1,182 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/main.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/pixels.o",
+      "src/pixels.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/pixels.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/pixels.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/ship.o",
+      "src/ship.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/ship.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/ship.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/bullet.o",
+      "src/bullet.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/bullet.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/bullet.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/text.o",
+      "src/text.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/text.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/text.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/asteroid.o",
+      "src/asteroid.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/asteroid.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/asteroid.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/saucers.o",
+      "src/saucers.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/saucers.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/saucers.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/audio.o",
+      "src/audio.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/audio.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/audio.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=gnu99",
+      "-I/usr/include/SDL2",
+      "-D_REENTRANT",
+      "-Wall",
+      "-Wextra",
+      "-Isrc/include/",
+      "-g",
+      "-DDO_AUDIO",
+      "-o",
+      "build/collisions.o",
+      "src/collisions.c"
+    ],
+    "directory": "/home/j4cobgarby/Documents/code/asteroids_master",
+    "file": "/home/j4cobgarby/Documents/code/asteroids_master/src/collisions.c",
+    "output": "/home/j4cobgarby/Documents/code/asteroids_master/build/collisions.o"
+  }
+]
